@@ -12,13 +12,10 @@ dependencies:
     sdk: flutter
 
   intl: ^0.20.2
-  appwrite: ^20.2.1
+  appwrite: ^25.4.0
   url_launcher: ^6.3.1
-  window_manager: ^0.4.3
+  window_manager: ^0.5.2
   cupertino_icons: ^1.0.8
-
-dependency_overrides:
-  flutter_web_auth_2: 4.1.0
 
 dev_dependencies:
   flutter_lints: ^5.0.0

@@ -13,10 +13,10 @@ packages:
     dependency: "direct main"
     description:
       name: appwrite
-      sha256: "11005bb650fd9143fc6d3b577d4c9a4c91a1895d70d942f14a02d2c335e9214c"
+      sha256: "6e0dd16de89c8540d70670658063f4923f6f374520052761573aaf614c64b83b"
       url: "https://pub.dev"
     source: hosted
-    version: "26.0.0"
+    version: "26.2.0"
   archive:
     dependency: transitive
     description:

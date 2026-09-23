@@ -15,7 +15,6 @@ dependencies:
   intl: ^0.20.2
   appwrite: ^26.2.0
   url_launcher: ^6.3.1
-  window_manager: ^0.5.2
   cupertino_icons: ^1.0.8
 
 dev_dependencies:

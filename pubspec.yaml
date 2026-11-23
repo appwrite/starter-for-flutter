@@ -15,7 +15,7 @@ dependencies:
   appwrite: ^20.2.1
   url_launcher: ^6.3.1
   window_manager: ^0.4.3
-  cupertino_icons: ^1.0.8
+  cupertino_icons: ^2.0.0
 
 dependency_overrides:
   flutter_web_auth_2: 4.1.0
